@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
     print("master pc 2 commit 1 line 1")
+
+    # PC 2 commit 2 line 1
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
