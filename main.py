@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
     print("test PC 2 commit 1 line 1")
+    print("test PC 2 commit 2 line 2")
 
 
 # Press the green button in the gutter to run the script.
