@@ -14,6 +14,8 @@ def print_hi(name):
     # 3
 
 
+    print("2 test 4 line")
+
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
