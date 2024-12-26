@@ -11,6 +11,8 @@ def print_hi(name):
     print("test PC 2 commit 1 line 1")
     print("test PC 2 commit 2 line 2")
 
+    print("test PC 2 commit 3 line 3 dev ")
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
